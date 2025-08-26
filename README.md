@@ -2,7 +2,7 @@
 * * *
 ## 目次
 1. [拡張機能一覧](#拡張機能一覧)  
-1. [興味のある人](#興味ある人用)  
+1. [興味のある人](#興味ある人向け)  
 
 * * *
 # 拡張機能一覧
@@ -14,7 +14,7 @@
 - Solution Error Visualozer 2022
 - Trailing Whitespace Visualozer
 ---
-# 興味のある人用
+# 興味のある人向け
 - Microsoft Visual Studio Installer Project 2022
 - Waka Time
 - Collapse Level
@@ -35,4 +35,4 @@
 
 ## Trailing Whitespace Visualizer
 
-# 興味ある人用
+# 
