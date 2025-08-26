@@ -16,9 +16,9 @@
 ---
 # 興味のある人向け
 [Microsoft Visual Studio Installer Project 2022](#Microsoft-Visual-Studio-Installer-Project-2022)  
-[Waka Time](#Waka-Time)
-[Collapse Level](#Collapse-Level)
-[Swap Selection](#Swap-Selection)
+[Waka Time](#Waka-Time)  
+[Collapse Level](#Collapse-Level)  
+[Swap Selection](#Swap-Selection)  
 * * *  
 
 ## Color Preview
