@@ -2,7 +2,7 @@
 * * *
 ## 目次
 1. [拡張機能一覧](#拡張機能一覧)  
-1. [興味のある人](#興味ある人向け)  
+1. [興味のある人](#興味のある人向け)  
 
 * * *
 # 拡張機能一覧
@@ -15,10 +15,10 @@
 - Trailing Whitespace Visualozer
 ---
 # 興味のある人向け
-- Microsoft Visual Studio Installer Project 2022
-- Waka Time
-- Collapse Level
-- Swap Selevtion
+- [Microsoft Visual Studio Installer Project 2022](#Microsoft Visual Studio Installer Project 2022)
+- [Waka Time](#Waka Time)
+- [Collapse Level](#Collapse Level)
+- Swap Selection
 * * *  
 
 ## Color Preview
@@ -35,4 +35,11 @@
 
 ## Trailing Whitespace Visualizer
 
-# 
+# 興味のある人用
+## Microsoft Visual Studio Instoller Project 2022
+
+## Waka Time
+
+## Collapse Level
+
+## Swap Selection
