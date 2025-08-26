@@ -4,7 +4,7 @@
 1. [拡張機能一覧](#拡張機能一覧)  
 1. [興味のある人](#興味のある人向け)
 * * *
-# 拡張機能一覧
+## 拡張機能一覧
 <details>
 <summary>一覧</summary>
   
@@ -18,7 +18,7 @@
 - [Trailing Whitespace Visualozer](#Trailing-Whitespace-Visualozer)  
 </details>
 
-# 興味のある人向け
+## 興味のある人向け
 
 <details>
   <summary>一覧</summary>
